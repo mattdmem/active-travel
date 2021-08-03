@@ -1,0 +1,11 @@
+name: active-travel
+title:
+username:
+account: connectingsheffield
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4451504
+bundleId: 4884225
+url: https://connectingsheffield.shinyapps.io/active-travel/
+when: 1628005792.12085
+lastSyncTime: 1628005792.12087
